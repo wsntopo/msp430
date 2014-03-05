@@ -4,7 +4,7 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/bsp/bsp.c 
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/bsp/bsp.c 
 
 OBJS += \
 ./components/bsp/bsp.obj 
@@ -19,6 +19,6 @@ OBJS__QUOTED += \
 "components\bsp\bsp.obj" 
 
 C_SRCS__QUOTED += \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/bsp/bsp.c" 
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/bsp/bsp.c" 
 
 
