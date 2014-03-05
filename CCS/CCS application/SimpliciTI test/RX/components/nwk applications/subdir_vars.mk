@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_freq.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ioctl.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_join.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_link.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_mgmt.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ping.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_security.c 
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_freq.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ioctl.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_join.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_link.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_mgmt.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ping.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_security.c 
 
 OBJS += \
 ./components/nwk\ applications/nwk_freq.obj \
@@ -49,12 +49,12 @@ OBJS__QUOTED += \
 "components\nwk applications\nwk_security.obj" 
 
 C_SRCS__QUOTED += \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_freq.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ioctl.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_join.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_link.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_mgmt.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ping.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_security.c" 
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_freq.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ioctl.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_join.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_link.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_mgmt.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_ping.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk_applications/nwk_security.c" 
 
 

@@ -4,11 +4,11 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_QMgmt.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_api.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_frame.c \
-C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_globals.c 
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_QMgmt.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_api.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_frame.c \
+C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_globals.c 
 
 OBJS += \
 ./components/nwk/nwk.obj \
@@ -39,10 +39,10 @@ OBJS__QUOTED += \
 "components\nwk\nwk_globals.obj" 
 
 C_SRCS__QUOTED += \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_QMgmt.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_api.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_frame.c" \
-"C:/Users/jmanton/ti/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_globals.c" 
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_QMgmt.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_api.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_frame.c" \
+"C:/Users/jmanton/work/SimpliciTI-CCS-1.1.1/Components/simpliciti/nwk/nwk_globals.c" 
 
 

@@ -13,6 +13,7 @@
 #include "nwk_types.h"
 #include "nwk_api.h"
 #include "nwk.h"
+#include "nwk_frame.h"
 
 #define	FALSE (0 == 1)
 #define TRUE (0 == 0)
