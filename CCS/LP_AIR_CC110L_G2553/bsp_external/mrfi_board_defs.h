@@ -161,8 +161,8 @@ st ( \
   UCB0BR0  = 2;                                 \
   UCB0BR1  = 0;                                 \
   /*MRFI_SPI_CONFIG_PORT();    */                   \
-  P1SEL = BIT5 | BIT6 | BIT7;					\
-  P1SEL2 = BIT5 | BIT6 | BIT7;					\
+  P1SEL |= BIT5 | BIT6 | BIT7;					\
+  P1SEL2 |= BIT5 | BIT6 | BIT7;					\
   UCB0CTL1 &= ~UCSWRST;                         \
 )
 
